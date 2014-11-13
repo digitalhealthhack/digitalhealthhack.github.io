@@ -2,7 +2,7 @@
 title: DHOx Digital Health Hack
 email: info@dhox.org
 description: > # this means to ignore newlines until "baseurl:"
-  Website holding details for the DHOx Digital Health Hacks.  
+  Everything you need to know about the DHOx Digital Health Hacks.  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dhox.org" # the base hostname & protocol for your site
 twitter_username: dhealthoxford
