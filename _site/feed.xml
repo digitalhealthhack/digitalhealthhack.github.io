@@ -6,12 +6,25 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Nov 2014 13:24:20 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 13:24:20 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 15:06:00 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 15:06:00 +0000</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Digital Health Hack #2</title>
+        <description>
+</description>
+        <pubDate>Thu, 13 Nov 2014 13:00:00 +0000</pubDate>
+        <link>http://dhox.org/hackathon/2014/11/13/DHOxHack%232-November-2014.html</link>
+        <guid isPermaLink="true">http://dhox.org/hackathon/2014/11/13/DHOxHack%232-November-2014.html</guid>
+        
+        
+        <category>hackathon</category>
+        
+      </item>
+    
+      <item>
+        <title>Digital Health Hack #1</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -27,14 +40,12 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 13 Nov 2014 12:39:04 +0000</pubDate>
-        <link>http://dhox.org/jekyll/update/2014/11/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://dhox.org/jekyll/update/2014/11/13/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 04 Jul 2014 13:00:00 +0100</pubDate>
+        <link>http://dhox.org/hackathon/2014/07/04/DHOxHack%231-July-2014.html</link>
+        <guid isPermaLink="true">http://dhox.org/hackathon/2014/07/04/DHOxHack%231-July-2014.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>hackathon</category>
         
       </item>
     

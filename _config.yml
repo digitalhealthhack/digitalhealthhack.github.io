@@ -10,3 +10,9 @@ github_username:  digitalhealthhack
 
 # Build settings
 markdown: kramdown
+
+# Pages
+pages:
+  About: '/about'
+  Contact: '/contact'
+  Blog: '/blog'
