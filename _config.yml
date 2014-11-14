@@ -1,6 +1,7 @@
 # Site settings
 title: DHOx Digital Health Hack
 email: info@dhox.org
+name: ""
 description: > # this means to ignore newlines until "baseurl:"
   Everything you need to know about the DHOx Digital Health Hacks.  
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -16,3 +17,8 @@ pages:
   About: '/about'
   Contact: '/contact'
   Blog: '/blog'
+
+paginate: 10
+
+permalink: pretty
+highlighter: pygments
