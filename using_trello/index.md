@@ -6,7 +6,7 @@ layout: default
 
 Trello is an online project management tool that is used to organise the event.  It is available as both web and native appps.  Trello consists of cards sorted into lists. Each card can be clicked to flip around and show a lot of detail, including labels, checklists, attached files, due dates, and assigned members.
 
-If you haven’t yet done it, take the Trello Tour https://trello.com/tour.  
+If you haven’t yet done it, take the Trello Tour [https://trello.com/tour](https://trello.com/tour).  
 
 We have a few lists that we’d like you to look at and/or contribute to:  
 
