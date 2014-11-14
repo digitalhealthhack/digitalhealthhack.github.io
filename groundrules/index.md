@@ -2,6 +2,8 @@
 layout: default
 ---
 
+#Groundrules
+
 ##Wifi
 Wifi username and password will be published at the event.
 
