@@ -7,6 +7,7 @@ layout: default
 ##Wifi
 Wifi username and password will be published at the event.
 
+
 ##Travel and Transport
 For directions please see [http://www.sbs.ox.ac.uk/contact/directions-park-end-street](http://www.sbs.ox.ac.uk/contact/directions-park-end-street).
 
@@ -14,7 +15,7 @@ For directions please see [http://www.sbs.ox.ac.uk/contact/directions-park-end-s
 If have a query or concern, please contact a member of the DHOx organising group. You may also contact Business School staff and ask to be put in touch with the event organiser — Richie Harrington, or Launchpad curator — James Murray.
 
 ##IP
-All submissions remain the intellectual property of the individuals or groups that developed them.  It is team-members responsibility to check and declare any pre-existing clauses in their employment contract that may have implications with any non-opensource projects developed.
+All submissions remain the intellectual property of the individuals or groups that developed them.  It is team-members responsibility to check and declare any pre-existing clauses in their employment contract that may have implications with any non-opensource projects developed.  If you have any concerns about IP, please contact Richie during the weekend.
 
 ##Judging
 All projects must be started and finished within the weekend, though you are free to use any existing APIs or libraries, or build new functionality or improve on an existing project (i.e. you can't submit a project you've been working on for the last two months). Judging of submissions will be based on three criteria:
