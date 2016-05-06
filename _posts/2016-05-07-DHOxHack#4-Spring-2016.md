@@ -31,6 +31,7 @@ The <a href="https://theodi.org/what-is-open-data">Open Data Institute</a> defin
 - [Various How To articles from the Open Health Data Platform](http://www.cde.org.uk/howto/)
 - [WHO Data and Statistics](http://www.who.int/research/en/)
 - [UNICEF data and statistics](http://data.unicef.org/)
+- [European CDC Data Tools](http://ecdc.europa.eu/en/data-tools/Pages/home.aspx)
 - [OECD Health Statistics](http://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics_health-data-en)
 - [OECD Health Statistics II](http://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT)
 - [Health Services Research and Health Care Technology](http://www.nlm.nih.gov/hsrinfo/datasites.html)

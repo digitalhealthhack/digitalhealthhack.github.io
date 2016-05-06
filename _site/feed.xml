@@ -6,8 +6,8 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 15:08:38 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 15:08:38 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 17:46:47 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 17:46:47 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -41,6 +41,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/&quot;&gt;Various How To articles from the Open Health Data Platform&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.who.int/research/en/&quot;&gt;WHO Data and Statistics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://data.unicef.org/&quot;&gt;UNICEF data and statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ecdc.europa.eu/en/data-tools/Pages/home.aspx&quot;&gt;European CDC Data Tools&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics_health-data-en&quot;&gt;OECD Health Statistics&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT&quot;&gt;OECD Health Statistics II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.nlm.nih.gov/hsrinfo/datasites.html&quot;&gt;Health Services Research and Health Care Technology&lt;/a&gt;&lt;/li&gt;
