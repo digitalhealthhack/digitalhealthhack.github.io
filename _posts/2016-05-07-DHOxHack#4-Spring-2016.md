@@ -5,7 +5,9 @@ date:   2016-05-05 12:00:00
 categories: hackathon
 ---
 
-The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of **Open Data, Open Source and Open Standards**.  
+The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of **Open Data, Open Source and Open Standards**.  'Open' in all three contexts can be <a href="http://opendefinition.org/">defined as</a>:
+
+> “Open data and content can be freely used, modified, and shared by anyone for any purpose”
 
 <h1 class="page-heading">Open Data</h1>
 

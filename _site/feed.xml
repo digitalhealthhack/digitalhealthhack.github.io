@@ -6,13 +6,17 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 14:10:13 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 14:10:13 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 14:15:51 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 14:15:51 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Open Data, Open Source and Open Standards</title>
-        <description>&lt;p&gt;The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of &lt;strong&gt;Open Data, Open Source and Open Standards&lt;/strong&gt;.  &lt;/p&gt;
+        <description>&lt;p&gt;The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of &lt;strong&gt;Open Data, Open Source and Open Standards&lt;/strong&gt;.  ‘Open’ in all three contexts can be &lt;a href=&quot;http://opendefinition.org/&quot;&gt;defined as&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Open data and content can be freely used, modified, and shared by anyone for any purpose”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h1 class=&quot;page-heading&quot;&gt;Open Data&lt;/h1&gt;
 
