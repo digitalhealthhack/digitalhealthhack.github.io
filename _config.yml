@@ -22,4 +22,4 @@ pages:
 paginate: 5
 
 permalink: pretty
-highlighter: rouge
+highlighter: pygments
