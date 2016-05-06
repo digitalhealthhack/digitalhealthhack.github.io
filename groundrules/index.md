@@ -12,7 +12,7 @@ Wifi username and password will be published at the event.
 For directions please see [http://www.sbs.ox.ac.uk/contact/directions-park-end-street](http://www.sbs.ox.ac.uk/contact/directions-park-end-street).
 
 ##Contact Information
-If have a query or concern, please contact a member of the DHOx organising group. You may also contact Business School staff and ask to be put in touch with the event organiser — Richie Harrington, or Launchpad curator — James Murray.
+If have a query or concern, please contact a member of the DHOx organising group. You may also contact Business School staff and ask to be put in touch with the event organiser — Richie Harrington, or Launchpad director — Megan Morys-Carter.
 
 ##IP
 All submissions remain the intellectual property of the individuals or groups that developed them.  It is team-members responsibility to check and declare any pre-existing clauses in their employment contract that may have implications with any non-opensource projects developed.  If you have any concerns about IP, please contact Richie during the weekend.
@@ -39,7 +39,7 @@ Food and drink will be provided free of charge throughout the weekend, served at
 Please take care of your belongings and valuables. If you leave your belongings unattended, it is at your own risk. If you have a security concern, please contact should the Business School reception.
 
 ##Code of Conduct
-A separate card describing the code of conduct can be found on here.
+A separate page describing the code of conduct can be found <a href="/conduct">here</a>.
 
 ##Cash Machines
 The closest cash machine is in the train station, next to the Saïd Business School. The Common Room cafe does accept debit and credit cards.
