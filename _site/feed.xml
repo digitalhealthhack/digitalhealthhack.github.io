@@ -6,9 +6,49 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 01:05:40 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 01:05:40 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 01:15:41 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 01:15:41 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
+    
+      <item>
+        <title>Digital Health Hack #4 - Spring 2016</title>
+        <description>&lt;h3 id=&quot;what-is-open-data&quot;&gt;What is Open Data&lt;/h3&gt;
+
+&lt;p&gt;…
+asdf
+asdf
+asdf&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 May 2016 13:00:00 +0100</pubDate>
+        <link>http://dhox.org/hackathon/2016/05/05/DHOxHack%234-Spring-2016/</link>
+        <guid isPermaLink="true">http://dhox.org/hackathon/2016/05/05/DHOxHack%234-Spring-2016/</guid>
+        
+        
+        <category>hackathon</category>
+        
+      </item>
+    
+      <item>
+        <title>Digital Health Hack #3 - March 2015</title>
+        <description>&lt;p&gt;HELP at the Health Hack Weekend&lt;/p&gt;
+
+&lt;p&gt;The HELP (Health Emergency Learning Platform) team used the Digital Health Hack weekend to start work on a new mobile game that aims to use mobile phones to train healthcare workers in low-income countries to manage paediatric emergencies.&lt;/p&gt;
+
+&lt;p&gt;The idea for HELP came from Prof Mike English, a University of Oxford professor and a paediatrician who has lived and worked in Kenya for the last 20 years. Working with colleagues from the Kenyan Ministry of Health, the University of Nairobi and other organisations in Kenya, he helped develop a real-life training programme and set of guidelines for managing the care of young children in hospitals in Kenya. After the success of the guidelines and the real-life training now provided by the Kenya Paediatric Association, Prof English had the idea of using a mobile phone game to spread the training further. The Digital Health Hack looked like a great place to start the development of the game, and, thanks to a grant from the Skoll Centre for Entrepreneurship at the Said Business School, Mike was able to bring out a team of Kenyan clinicians, researchers and programmers to Oxford for the weekend that included Prof. Grace Irimu from Nairobi, one of the trainings founding members.&lt;/p&gt;
+
+&lt;p&gt;The team from Nairobi were also joined for several hours on Saturday by developers from White October, a local Oxfordshire digital agency, who were able to guide us through an interactive exercise to design the game mechanics (scoring, features and flow of learning scenarios).&lt;/p&gt;
+
+&lt;p&gt;The HELP team links expertise from Oxford University and the Oxford University Hospitals Trust to partners in Kenya and has now got to the stage where we are almost ready to develop the first “minimal viable product” of the game which White October will be working on for us over the next few weeks. Once this stage is completed, we will try the game out on healthcare workers on the ground in Kenya. We are currently seeking investment to support the next stage of development of the app – if you would like to learn more, please contact Sarah Deakin at Isis Innovation (Sarah.Deakin@isis.ox.ac.uk, phone: 01865 614410).&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Apr 2015 13:00:00 +0100</pubDate>
+        <link>http://dhox.org/hackathon/2015/04/23/DHOxHack%233-March02015/</link>
+        <guid isPermaLink="true">http://dhox.org/hackathon/2015/04/23/DHOxHack%233-March02015/</guid>
+        
+        
+        <category>hackathon</category>
+        
+      </item>
     
       <item>
         <title>Digital Health Hack #2 - Nov&#39; 2014</title>
@@ -18,6 +58,31 @@
 
 &lt;p&gt;&lt;img src=&quot;http://dhox.org/img/DHOxHack201411-Sponsors.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/img/DHOxHack201411-Sponsors.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A fantastic weekend was had by all, over 60 people attended over the weekend, and in addition to the five main teams, there was again a very encouraging and enthusiastic set of mentors who were available for questions, to provide advice, and help guide the teams:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Isaac Holeman, Co-founder MedicMobile&lt;/li&gt;
+  &lt;li&gt;Amy O’Donnell, Head of ICT4Development, Oxfam&lt;/li&gt;
+  &lt;li&gt;Dr. Fred Hersch (clinical researcher, The George Institute, University of Oxford)&lt;/li&gt;
+  &lt;li&gt;Mark Stone (patient representative, member of MND Association national board)&lt;/li&gt;
+  &lt;li&gt;James Turnbull (co-founder Incuna)&lt;/li&gt;
+  &lt;li&gt;Gareth Nixon (co-founder Global Initiative)&lt;/li&gt;
+  &lt;li&gt;James Murray (curator, The Oxford Launchpad)&lt;/li&gt;
+  &lt;li&gt;Jim Moodie (founder, Oxford Startups)&lt;/li&gt;
+  &lt;li&gt;Patrick Beattie (co-founder of Diagnostics For All)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The weekend kicked off with short presentations from Isaac Holeman co-founder of MedicMobile and current PhD candidate at Cambridge University, and Amy O’Donnell, head of ICT4Development at Oxfam. Both gave fantastic talks on their successful mobile health projects in resource-poor settings, the challenges, ways in which they were overcome, and what the teams needed to keep in mind for the weekend.  Special thanks are due to both Isaac and Amy who were amazingly generous with their time in both giving the presentations and also helping mentor teams in their early stages before both having to fly out to different parts of Kenya later that day.&lt;/p&gt;
+
+&lt;p&gt;The projects included (some described by team members):&lt;/p&gt;
+
+&lt;h4 id=&quot;red-button&quot;&gt;Red Button&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Red button is a prototype wearable device for alerting your friends and carers that you need help, and where you are, without those friends needing an app or subscribing to a proprietary care network or service.  The hack was inspired by the problem experienced by a friend who suffers regular and sudden seizures, and needs to be able to quickly alert nearby carers on any given day.
+The device is built using open hardware, connects to your phone via Bluetooth, and sends an SMS alert with a help message and a link to your location when you press the “red” button.  A working electronic device prototype and an accompanying smartphone app were created from scratch during the hackathon by the team of two – Cyan Collier, co-founder of Incuna – a healthcare digital agency, and general digital health software and hardware aficionado/ basher, and Carlos Pages,  a mobile App developer working in the digital health sector at Incuna.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
