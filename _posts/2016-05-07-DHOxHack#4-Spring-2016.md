@@ -1,13 +1,8 @@
 ---
 layout: post
-title:  "Digital Health Hack #4 - Spring 2016"
+title:  "Open Data, Open Source and Open Standards"
 date:   2016-05-05 12:00:00
 categories: hackathon
 ---
 
-### What is Open Data
-
-...
-asdf
-asdf
-asdf
+The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of **Open Data**
