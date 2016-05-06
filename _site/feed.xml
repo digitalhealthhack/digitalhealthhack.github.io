@@ -6,57 +6,65 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 13:33:18 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 13:33:18 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 14:10:13 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 14:10:13 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Open Data, Open Source and Open Standards</title>
         <description>&lt;p&gt;The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of &lt;strong&gt;Open Data, Open Source and Open Standards&lt;/strong&gt;.  &lt;/p&gt;
 
-&lt;h1 id=&quot;open-data&quot;&gt;Open Data&lt;/h1&gt;
+&lt;h1 class=&quot;page-heading&quot;&gt;Open Data&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/&quot;&gt;How To&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://theodi.org/what-is-open-data&quot;&gt;Open Data Institute&lt;/a&gt; defines open data as:&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Finding data at HSCIC
-http://www.cde.org.uk/howto/hscic-data/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Open Health Data Platform Resources
-http://www.cde.org.uk/resources/resources.html&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data.gov.uk/data/search?theme-primary=Health&amp;amp;core_dataset=true&amp;amp;api=true&amp;amp;unpublished=false&quot;&gt;data.gov.uk Health Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/hscic-data/&quot;&gt;Finding data at HSCIC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/resources/resources.html&quot;&gt;Open Health Data Platform Resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/cross-org-joins/&quot;&gt;Linking data across organisations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/forecasting/&quot;&gt;Forecasting using data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/&quot;&gt;Various How To articles from the Open Health Data Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.who.int/research/en/&quot;&gt;WHO Data and Statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.unicef.org/&quot;&gt;UNICEF data and statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics_health-data-en&quot;&gt;OECD Health Statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT&quot;&gt;OECD Health Statistics II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nlm.nih.gov/hsrinfo/datasites.html&quot;&gt;Health Services Research and Health Care Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html&quot;&gt;Data sharing repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://data.worldbank.org/topic/health&quot;&gt;World Bank Health Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/datastatistics/&quot;&gt;CDC Statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cdc.gov/aging/data/&quot;&gt;CDC Aging Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ophi.org.uk/multidimensional-poverty-index/mpi-2014/mpi-data/&quot;&gt;Oxford Poverty and Human Development Data Initiative&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.england.nhs.uk/resources/resources-for-ccgs/comm-for-value/mids-eoe/&quot;&gt;NHS England - Midlands and East of England Commissioning region DataPacks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.exploredata.net/Downloads&quot;&gt;Maximal Information Coefficient (MIC) and Maximal Information-based Nonparametric Exploration (MINE) statistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.metoffice.gov.uk/datapoint&quot;&gt;Met Office Datapoints&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.eea.europa.eu/data-and-maps/data#c11=&amp;amp;c17=&amp;amp;c5=all&amp;amp;c0=5&amp;amp;b_start=0&quot;&gt;European Environmental Data&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.naturalearthdata.com/downloads/&quot;&gt;Global Boundary Data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Linking data across organisations
-http://www.cde.org.uk/howto/cross-org-joins/&lt;/p&gt;
+&lt;h1 class=&quot;page-heading&quot;&gt;Open Source&lt;/h1&gt;
 
-&lt;p&gt;Forecasting using data
-http://www.cde.org.uk/howto/forecasting/&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_open-source_health_software&quot;&gt;List of Open Source Health Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openmrs.org/&quot;&gt;Open MRS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sourceforge.net/projects/cityehr/&quot;&gt;cityEHR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf&quot;&gt;cityEHR – Electronic Health Records Using Open Health Informatics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openhealthinformatics.org/2014/11/nhs-open-source-day/&quot;&gt;NHS Open Source Day&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Building an API in Ruby
-http://www.cde.org.uk/howto/api/&lt;/p&gt;
+&lt;h1 class=&quot;page-heading&quot;&gt;Open Standards&lt;/h1&gt;
 
-&lt;h3 id=&quot;open-source&quot;&gt;Open Source&lt;/h3&gt;
-
-&lt;p&gt;cityEHR
-https://sourceforge.net/projects/cityehr/&lt;/p&gt;
-
-&lt;p&gt;cityEHR – Electronic Health Records Using Open Health Informatics 
-http://www.hl7.org.uk/doc_store/io_forums/112013/basic_cityehr.pdf
-http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf&lt;/p&gt;
-
-&lt;p&gt;NHS Open Source Day
-http://openhealthinformatics.org/2014/11/nhs-open-source-day/&lt;/p&gt;
-
-&lt;h3 id=&quot;open-standards&quot;&gt;Open Standards&lt;/h3&gt;
-
-&lt;p&gt;Standards allow for interoperability and data transfer, 
-http://openhealthinformatics.org/standards/&lt;/p&gt;
-
-&lt;p&gt;HL7 &amp;amp; FHIR
-http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343&lt;/p&gt;
-
-&lt;p&gt;EMIS Health implements open standards for interoperability
-https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openhealthinformatics.org/standards/&quot;&gt;Standards allow for interoperability and data transfer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343&quot;&gt;HL7 &amp;amp; FHIR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/&quot;&gt;EMIS Health implements open standards for interoperability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Thu, 05 May 2016 13:00:00 +0100</pubDate>
         <link>http://dhox.org/hackathon/2016/05/05/DHOxHack%234-Spring-2016/</link>

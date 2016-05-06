@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Trello 
+<h1 class="page-heading">Trello</h1>
 
 Trello is an online project management tool that is used to organise the event.  It is available as both web and native appps.  Trello consists of cards sorted into lists. Each card can be clicked to flip around and show a lot of detail, including labels, checklists, attached files, due dates, and assigned members.
 

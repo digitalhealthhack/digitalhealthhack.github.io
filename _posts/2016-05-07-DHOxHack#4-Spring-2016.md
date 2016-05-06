@@ -7,47 +7,47 @@ categories: hackathon
 
 The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of **Open Data, Open Source and Open Standards**.  
 
-# Open Data
+<h1 class="page-heading">Open Data</h1>
 
-[How To](http://www.cde.org.uk/howto/)
+The <a href="https://theodi.org/what-is-open-data">Open Data Institute</a> defines open data as:
 
-<br><br>
-
-Finding data at HSCIC
-http://www.cde.org.uk/howto/hscic-data/
-
-Open Health Data Platform Resources
-http://www.cde.org.uk/resources/resources.html
-
-Linking data across organisations
-http://www.cde.org.uk/howto/cross-org-joins/
-
-Forecasting using data
-http://www.cde.org.uk/howto/forecasting/
-
-Building an API in Ruby
-http://www.cde.org.uk/howto/api/
+> Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.
 
 
-### Open Source
+<br>
 
-cityEHR
-https://sourceforge.net/projects/cityehr/
+- [data.gov.uk Health Data](https://data.gov.uk/data/search?theme-primary=Health&core_dataset=true&api=true&unpublished=false)
+- [Finding data at HSCIC](http://www.cde.org.uk/howto/hscic-data/)
+- [Open Health Data Platform Resources](http://www.cde.org.uk/resources/resources.html)
+- [Linking data across organisations](http://www.cde.org.uk/howto/cross-org-joins/)
+- [Forecasting using data](http://www.cde.org.uk/howto/forecasting/)
+- [Various How To articles from the Open Health Data Platform](http://www.cde.org.uk/howto/)
+- [WHO Data and Statistics](http://www.who.int/research/en/)
+- [UNICEF data and statistics](http://data.unicef.org/)
+- [OECD Health Statistics](http://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics_health-data-en)
+- [OECD Health Statistics II](http://stats.oecd.org/index.aspx?DataSetCode=HEALTH_STAT)
+- [Health Services Research and Health Care Technology](http://www.nlm.nih.gov/hsrinfo/datasites.html)
+- [Data sharing repositories](http://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html)
+- [World Bank Health Data](http://data.worldbank.org/topic/health)
+- [CDC Statistics](http://www.cdc.gov/datastatistics/)
+- [CDC Aging Data](http://www.cdc.gov/aging/data/)
+- [Oxford Poverty and Human Development Data Initiative](http://www.ophi.org.uk/multidimensional-poverty-index/mpi-2014/mpi-data/)
+- [NHS England - Midlands and East of England Commissioning region DataPacks](http://www.england.nhs.uk/resources/resources-for-ccgs/comm-for-value/mids-eoe/)
+- [Maximal Information Coefficient (MIC) and Maximal Information-based Nonparametric Exploration (MINE) statistics](http://www.exploredata.net/Downloads)
+- [Met Office Datapoints](http://www.metoffice.gov.uk/datapoint)
+- [European Environmental Data](http://www.eea.europa.eu/data-and-maps/data#c11=&c17=&c5=all&c0=5&b_start=0)
+- [Global Boundary Data](http://www.naturalearthdata.com/downloads/)
 
-cityEHR – Electronic Health Records Using Open Health Informatics 
-http://www.hl7.org.uk/doc_store/io_forums/112013/basic_cityehr.pdf
-http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf
+<h1 class="page-heading">Open Source</h1>
 
-NHS Open Source Day
-http://openhealthinformatics.org/2014/11/nhs-open-source-day/
+- [List of Open Source Health Software](https://en.wikipedia.org/wiki/List_of_open-source_health_software)
+- [Open MRS](http://openmrs.org/)
+- [cityEHR](https://sourceforge.net/projects/cityehr/)
+- [cityEHR – Electronic Health Records Using Open Health Informatics](http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf)
+- [NHS Open Source Day](http://openhealthinformatics.org/2014/11/nhs-open-source-day/)
 
-### Open Standards
+<h1 class="page-heading">Open Standards</h1>
 
-Standards allow for interoperability and data transfer, 
-http://openhealthinformatics.org/standards/
-
-HL7 & FHIR
-http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343
-
-EMIS Health implements open standards for interoperability
-https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/
+- [Standards allow for interoperability and data transfer](http://openhealthinformatics.org/standards/)
+- [HL7 & FHIR](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343)
+- [EMIS Health implements open standards for interoperability](https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/)
