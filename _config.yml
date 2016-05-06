@@ -14,8 +14,6 @@ markdown: kramdown
 
 # Pages
 pages:
-  About: '/about'
-  Trello: '/using_trello'
   Contact: '/contact'
   Blog: '/blog'
 
