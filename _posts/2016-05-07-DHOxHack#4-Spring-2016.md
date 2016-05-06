@@ -50,6 +50,8 @@ A number of relevant data sources are listed below:
 
 For inspiration, you may also want to look at the fantastic [EBM Data Lab](https://ebmdatalab.net/), which is based at the Dept of Primary Health Care Sciences, University of Oxford, and also [HealthMap](http://www.healthmap.org/site/projects), based in Children's Hospital Informatics Program at Harvard Medical School.
 
+<img src="/img/healthmap_and_embdatalab.png" />
+
 <br>
 
 ******
