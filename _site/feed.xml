@@ -6,8 +6,8 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 17:46:47 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 17:46:47 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 17:48:28 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 17:48:28 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -31,6 +31,8 @@
 &lt;blockquote&gt;
   &lt;p&gt;Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;A number of relevant data sources are listed below:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://data.gov.uk/data/search?theme-primary=Health&amp;amp;core_dataset=true&amp;amp;api=true&amp;amp;unpublished=false&quot;&gt;data.gov.uk Health Data&lt;/a&gt;&lt;/li&gt;
