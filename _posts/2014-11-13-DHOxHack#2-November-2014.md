@@ -12,6 +12,27 @@ The second Digital Health Hack was held on the 15-16th November 2014, again host
 ![My helpful screenshot]({{ site.url }}/img/DHOxHack201411-Sponsors.png)
 ![My helpful screenshot](http://localhost:4000/img/DHOxHack201411-Sponsors.png)
 
+A fantastic weekend was had by all, over 60 people attended over the weekend, and in addition to the five main teams, there was again a very encouraging and enthusiastic set of mentors who were available for questions, to provide advice, and help guide the teams:
+
+- Isaac Holeman, Co-founder MedicMobile
+- Amy O’Donnell, Head of ICT4Development, Oxfam
+- Dr. Fred Hersch (clinical researcher, The George Institute, University of Oxford)
+- Mark Stone (patient representative, member of MND Association national board)
+- James Turnbull (co-founder Incuna)
+- Gareth Nixon (co-founder Global Initiative)
+- James Murray (curator, The Oxford Launchpad)
+- Jim Moodie (founder, Oxford Startups)
+- Patrick Beattie (co-founder of Diagnostics For All)
+
+The weekend kicked off with short presentations from Isaac Holeman co-founder of MedicMobile and current PhD candidate at Cambridge University, and Amy O’Donnell, head of ICT4Development at Oxfam. Both gave fantastic talks on their successful mobile health projects in resource-poor settings, the challenges, ways in which they were overcome, and what the teams needed to keep in mind for the weekend.  Special thanks are due to both Isaac and Amy who were amazingly generous with their time in both giving the presentations and also helping mentor teams in their early stages before both having to fly out to different parts of Kenya later that day.
+
+The projects included (some described by team members):
+
+#### Red Button
+
+>“Red button is a prototype wearable device for alerting your friends and carers that you need help, and where you are, without those friends needing an app or subscribing to a proprietary care network or service.  The hack was inspired by the problem experienced by a friend who suffers regular and sudden seizures, and needs to be able to quickly alert nearby carers on any given day.
+The device is built using open hardware, connects to your phone via Bluetooth, and sends an SMS alert with a help message and a link to your location when you press the “red” button.  A working electronic device prototype and an accompanying smartphone app were created from scratch during the hackathon by the team of two – Cyan Collier, co-founder of Incuna – a healthcare digital agency, and general digital health software and hardware aficionado/ basher, and Carlos Pages,  a mobile App developer working in the digital health sector at Incuna.”
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
