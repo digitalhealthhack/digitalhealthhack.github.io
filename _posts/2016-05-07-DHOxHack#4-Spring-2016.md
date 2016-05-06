@@ -5,9 +5,16 @@ date:   2016-05-05 12:00:00
 categories: hackathon
 ---
 
+    
 The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of **Open Data, Open Source and Open Standards**.  'Open' in all three contexts can be <a href="http://opendefinition.org/">defined as</a>:
 
 > “Open data and content can be freely used, modified, and shared by anyone for any purpose”
+
+<br>
+
+******
+
+<br>
 
 <h1 class="page-heading">Open Data</h1>
 
@@ -15,9 +22,7 @@ The <a href="https://theodi.org/what-is-open-data">Open Data Institute</a> defin
 
 > Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.
 
-
-<br>
-
+    
 - [data.gov.uk Health Data](https://data.gov.uk/data/search?theme-primary=Health&core_dataset=true&api=true&unpublished=false)
 - [Finding data at HSCIC](http://www.cde.org.uk/howto/hscic-data/)
 - [Open Health Data Platform Resources](http://www.cde.org.uk/resources/resources.html)
@@ -40,6 +45,12 @@ The <a href="https://theodi.org/what-is-open-data">Open Data Institute</a> defin
 - [European Environmental Data](http://www.eea.europa.eu/data-and-maps/data#c11=&c17=&c5=all&c0=5&b_start=0)
 - [Global Boundary Data](http://www.naturalearthdata.com/downloads/)
 
+<br>
+
+******
+
+<br>
+
 <h1 class="page-heading">Open Source</h1>
 
 - [List of Open Source Health Software](https://en.wikipedia.org/wiki/List_of_open-source_health_software)
@@ -48,8 +59,15 @@ The <a href="https://theodi.org/what-is-open-data">Open Data Institute</a> defin
 - [cityEHR – Electronic Health Records Using Open Health Informatics](http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf)
 - [NHS Open Source Day](http://openhealthinformatics.org/2014/11/nhs-open-source-day/)
 
+<br>
+
+******
+
+<br>
+
 <h1 class="page-heading">Open Standards</h1>
 
 - [Standards allow for interoperability and data transfer](http://openhealthinformatics.org/standards/)
 - [HL7 & FHIR](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343)
 - [EMIS Health implements open standards for interoperability](https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/)
+

@@ -6,8 +6,8 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 14:15:51 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 14:15:51 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 14:29:39 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 14:29:39 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -18,6 +18,12 @@
   &lt;p&gt;“Open data and content can be freely used, modified, and shared by anyone for any purpose”&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h1 class=&quot;page-heading&quot;&gt;Open Data&lt;/h1&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://theodi.org/what-is-open-data&quot;&gt;Open Data Institute&lt;/a&gt; defines open data as:&lt;/p&gt;
@@ -25,8 +31,6 @@
 &lt;blockquote&gt;
   &lt;p&gt;Open data is data that anyone can access, use or share. Simple as that. When big companies or governments release non-personal data, it enables small businesses, citizens and medical researchers to develop resources which make crucial improvements to their communities.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://data.gov.uk/data/search?theme-primary=Health&amp;amp;core_dataset=true&amp;amp;api=true&amp;amp;unpublished=false&quot;&gt;data.gov.uk Health Data&lt;/a&gt;&lt;/li&gt;
@@ -52,6 +56,12 @@
   &lt;li&gt;&lt;a href=&quot;http://www.naturalearthdata.com/downloads/&quot;&gt;Global Boundary Data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h1 class=&quot;page-heading&quot;&gt;Open Source&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -62,6 +72,12 @@
   &lt;li&gt;&lt;a href=&quot;http://openhealthinformatics.org/2014/11/nhs-open-source-day/&quot;&gt;NHS Open Source Day&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;h1 class=&quot;page-heading&quot;&gt;Open Standards&lt;/h1&gt;
 
 &lt;ul&gt;
@@ -69,6 +85,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343&quot;&gt;HL7 &amp;amp; FHIR&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/&quot;&gt;EMIS Health implements open standards for interoperability&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Thu, 05 May 2016 13:00:00 +0100</pubDate>
         <link>http://dhox.org/hackathon/2016/05/05/DHOxHack%234-Spring-2016/</link>
@@ -135,27 +152,61 @@
 The device is built using open hardware, connects to your phone via Bluetooth, and sends an SMS alert with a help message and a link to your location when you press the “red” button.  A working electronic device prototype and an accompanying smartphone app were created from scratch during the hackathon by the team of two – Cyan Collier, co-founder of Incuna – a healthcare digital agency, and general digital health software and hardware aficionado/ basher, and Carlos Pages,  a mobile App developer working in the digital health sector at Incuna.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
+&lt;h4 id=&quot;whoami&quot;&gt;WHOAMI&lt;/h4&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote.&lt;/p&gt;
-
-  &lt;p&gt;This is the second paragraph in the blockquote.&lt;/p&gt;
-
-  &lt;h2 id=&quot;this-is-an-h2-in-a-blockquote&quot;&gt;This is an H2 in a blockquote&lt;/h2&gt;
+  &lt;p&gt;“The WHO Acute Malnutrition Indicator app is designed to aid clinicians in developing countries assess peadeatric malnutrition. Based on the paper tool developed by the WHO, the WHOAMI app aims to reduce inaccuracy and increase the speed of diagnosis while retaining a zero learning curve. The paradigm of simple UX and one-thumb control makes the app intuitive and easy to use. A data collection system and a series of automated, tailored sms messages promotes continued support and patient follow up.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;(The WHOAMI team were awarded first prize for their efforts over the weekend by the judging panel, and subsequently presented at the pitch event at the Digital Catapult in December – Digital Health Pit Stop Week, gaining a notable mention from their judging panel for potential global impact.)&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4 id=&quot;html5-strip-reader&quot;&gt;HTML5 strip-reader&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“At the last Hackathon, we created a proof-of-concept device for reading lateral flow diagnostic strips, using a Raspberry Pi, a camera and a bike lamp. The device was able to read a strip and give a quantifiable and consistent result as a percentage of a control.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This time we continued our work to move the project on from being a proof-of-concept device, towards a cross-platform open source HTML5 toolkit for developing diagnostic strip reading apps any smartphone, tablet or laptop with a camera.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During the weekend, the team developed strip-detection code to enable hand-held strips to be read by a variety of cameras and devices, and worked on converting the image processing algorithm to HTML5. The strip reading software was also successfully run on one of the prototype low-cost Firefox smartphones that were provided at the event.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;ambulance-tracker&quot;&gt;Ambulance Tracker&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Inspired by motorcycle ambulances in Uganda, the Ambulance Tracker project is part of a larger goal of operating for-profit ambulance services in resource poor regions around the world. Using freely and cheaply available technology, the project aids in the monitoring and dispatch of ambulances, so that they can be quickly made available to those in need.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Team members Johnathan, Jamie B, Rahul, Jamie R and Barry come from a diverse background. Johnathan Au is a full-time software developer who uses coffee to turn ideas into magic. Jamie Boutilier is an MBA student at the Said Business School. Rahul Jadhav is an entrepreneur who runs Ziffy, a startup based in Oxford. Jamie Rosen is an MBA student at the Said Business School. Barry Wong is a data scientist for LHASA Ltd, a drug toxicology software company based in Leeds“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;building-a-national-health-it-system-with-open-source-software&quot;&gt;Building a National Health IT System with Open Source Software&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“We set out to test a proof of concept national health IT system using Open Source Software. We set up several Amazon Cloud Server instances to host the software (representing a “Ministry of Health” and a “Hospital”) and installed two Open Source software programmes used to manage health information in resource-poor settings. DHIS2 (District Health Information Systems 2) is a web-based system to collating and reviewing healthcare indicators and is commonly used by developing countries to provide statistics on the state of healthcare in a country.  OpenMRS is an Open Source electronic medical records system that is used by clinics across Africa and other LMICs to help doctors and healthcare workers record information about their patients, prescribe drugs and communicate with other healthcare workers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Over the course of the weekend we succeeding in installing both systems on separate cloud instances and installed a sample database of 5,000 patients. We also attempted to connect the two software systems using a “plug-in” for OpenMRS that would enable us to upload data from OpenMRS to DHIS2. Although we were not able to get the plug-in working in the time available, we learned many valuable lessons about how these software programmes work and about the feasibility of using Open Source solutions to help build national health IT systems.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;is-it-good-for-me&quot;&gt;Is It Good For Me&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“‘Is It Good For Me’ is a website that helps separate medical facts from medical myths. Despite our ever-increasing wealth of medical knowledge, medical myths about food, medicine, and supplements stubbornly persist. We’re passionate about taking an evidence-based approach to health decision-making, and through this site we want to share that perspective. We use data curated by the Cochrane Collaboration, a group of medical researchers and patient advocates who share our commitment to evidence-based medicine. This data is based on a number of rigorous randomized clinical trials. In each of these studies subjects are given a treatment or a placebo, and researchers use their observations to determine the effect the treatment has on the human body. In science, these kinds of studies are considered the gold standard. Our algorithm uses sentiment analysis developed by Stanford University to aggregate and interpret this vast array of medical research to give you an at-a-glance look at how things affect the human body — what’s good for you, and what isn’t.“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;the-open-patient-portal-framework&quot;&gt;The Open Patient Portal Framework&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Patient portals are an increasingly important part of what NHS Trusts offer to patients.  They facilitate smoother, more efficient, interactions between the patient, the Trust, and clinicians. In many cases digital innovations are becoming part of treatment pathways. Self-management systems allow patients themselves to become an expert in their own care. New devices can allow both patient and clinician to more effectively monitor the progress of an illness.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Led by Dr. Chris Hinds and comprising a team of experienced academic and industry professionals, aims for this weekend were to outline and initiate the ambitious project of establishing a framework for an open patient portal, and initial efforts to architect a solution. The concept and initial plans for the framework were presented, and very well received, at the end of the weekend.  Next steps are to form a core working group of interested stakeholders, and a community of contributors to enable the project to systematically follow up all the ideas that have been put forward so far and consult on their feasibility before documenting and releasing a more detailed proposal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks again to everyone who made it such a fantastic weekend, to the sponsors – the Oxford AHSN, Global Initiative, and Telenor for donating a number of Mozilla Firefox phones – to the Launchpad for being amazing hosts once again, and to all the mentors, speakers and participants.  The next hack weekend is due in March, and we can’t wait to see what happens with these projects in the meantime.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 13 Nov 2014 13:00:00 +0000</pubDate>
@@ -169,19 +220,63 @@ The device is built using open hardware, connects to your phone via Bluetooth, a
     
       <item>
         <title>Digital Health Hack #1 - Summer 2014</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;p&gt;In mid-July 2014, over 50 people descended on The Oxford Launchpad for the first DHOx Digital Health Hack, held jointly with Green Templeton College’s Future Ageing program. The aim of the weekend was to bring together people of different skill sets and expertise to work together on new digital health projects, to create new working relationships and interactions between the cross-disciplinary and cross-sector members of the Digital Health Oxford group, and to identify and come up with solutions to important problems in the themes of Global Health, Care, Patient Experience, and Management in Medicine.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;As an introduction to the weekend, DHOx #5 was held on the previous Monday, in the fantastic lecture theatre at the Oxford Martin School, with talks related to the hackathon themes by Dr Fred Hersch (The George Institute, University of Oxford), Prof Sue Ziebland (HEXI, University of Oxford), and Dr Reynold Greenlaw (Oxford Computer Consultants), followed by a drinks reception at The Kings Arms pub, with the whole evening sponsored by RowAnalytics.  Participants at the hack weekend collaborated before the hack, using Trello to pitch ideas, potential solutions, and give a brief overview of their backgrounds and skills.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;The weekend itself kicked off with informal networking over coffee and pastries at The Launchpad, followed by an introduction about the weekend and venue from Richie and James, a quick one-liner by each person about who they were, and then the pitches! Over 20 ideas were pitched, ranging from a single idea / problem to idea + potential solution, suggested from a variety of people from both clinical and digital backgrounds.  Then it was over to the participants to form teams, decide on what project to tackle, and start hacking!&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Over 50 people attended over the weekend, and in addition to the five main teams, there was a fantastic group of mentors who were available to ask questions, provide advice, and help guide the teams:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prof Sir Muir Gray&lt;/li&gt;
+  &lt;li&gt;Dr Chris Paton&lt;/li&gt;
+  &lt;li&gt;Dr Fred Hersch&lt;/li&gt;
+  &lt;li&gt;Tony Hart&lt;/li&gt;
+  &lt;li&gt;Dr Nick Edwards&lt;/li&gt;
+  &lt;li&gt;Mark Evans&lt;/li&gt;
+  &lt;li&gt;Dr Anant Jani&lt;/li&gt;
+  &lt;li&gt;James Murray&lt;/li&gt;
+  &lt;li&gt;Mark Stone&lt;/li&gt;
+  &lt;li&gt;Robin Chard&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The projects included (some described by team members):&lt;/p&gt;
+
+&lt;h4 id=&quot;tabulator&quot;&gt;TaBulator&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;TaBulator is a low-cost solution for reading the results of the LAM test for TB in HIV positive patients.  Using a Raspberry Pi, usb-camera, bike light (“and some power tools”), the team created a box that sensed when a test strip was inserted, automatically read and processed the result, feeding back a quantified reading, a task that is ordinarily especially tricky in the important weakly positive cases.  The team has since received interest from a number of university research groups in Oxford and London as to potential uses for this low-cost and potential large-impact tool.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;mirisc&quot;&gt;mirisc&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Having run an Oxford digital agency for fifteen years, I’ve grown profoundly interested in how digital technologies can advance the delivery of healthcare. My particular leanings are towards medical error reporting/analysis and learning outcomes. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Even though I’m surrounded by developers on a daily basis, I found the health hack weekend an eye-opening and inspirational environment; not only was the quality of thought in the room extremely high, there was also a simmering culture of altruistic commitment.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Startled by the continuing lack of risk communication in clinical consultations, my team developed the concept-model ‘mirisc’, a visual aid for disseminating and understanding comparative risks on the fly.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;quantified-health&quot;&gt;Quantified Health&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The aim of the Quantified Health project was to improve the quality of lifestyle advice for people with chronic health conditions. We prototyped an app that prompted you to track your health, then displayed how your health has changed over time, and then displayed the beneficial of health interventions across the population. The team all met at DHOx! Doctor/med student/developer x2.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;waittracker&quot;&gt;WaitTracker&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;WaitTracker provides real-time feedback for waiting times in different hospital or clinic waiting rooms in an area, using either data from hospital record systems, or else using sensors in-clinic to measure the number of people in each room.  This was then linked to user-added data on why they were visiting that clinic / hospital, and provided alternative options, such as visiting a local small injuries clinic rather than waiting in a busy A&amp;amp;E, if appropriate.  The team was formed by a number of clinicians and developers, from Oxford and Birmingham.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;evas-eventassist&quot;&gt;EVAS (EventAssist)&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Evas, or Event Assist, is a social app designed to help users request assistance from their friends and family in day-to-day life, and manage the responses. It’s based around creating events and broadcasting them across social networks (or privately send a link). Each event will have an explanation of the assistance required, and respondents reply with a simple yes, no, or maybe. The user can then get in contact with respondents through the app. An enhancement would be to track positive responses and find out who amongst your respondents is more likely to respond to certain types of events. At the moment a prototype does not exist, but hopefully something will be ready by the next DHOx Hack.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A great many thanks are due to the organisers, especially to Julianne Williams (DHOx), James Murray (The Launchpad), and Alexander Finlayson (Green Templeton College), along with help from a large number of people behind the scenes.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 04 Jul 2014 13:00:00 +0100</pubDate>
