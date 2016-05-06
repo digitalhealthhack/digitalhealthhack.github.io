@@ -6,8 +6,8 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 17:52:03 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 17:52:03 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 17:54:39 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 17:54:39 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -59,6 +59,8 @@
   &lt;li&gt;&lt;a href=&quot;http://www.naturalearthdata.com/downloads/&quot;&gt;Global Boundary Data&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.programmableweb.com/news/37-health-apis-google-health-avvo-and-fitbit/2012/03/21&quot;&gt;Health APIs from ProgrammableWeb&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;For inspiration, you may also want to look at the fantastic &lt;a href=&quot;https://ebmdatalab.net/&quot;&gt;EBM Data Lab&lt;/a&gt;, which is based at the Dept of Primary Health Care Sciences, University of Oxford, and also &lt;a href=&quot;http://www.healthmap.org/site/projects&quot;&gt;HealthMap&lt;/a&gt;, based in Children’s Hospital Informatics Program at Harvard Medical School.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
