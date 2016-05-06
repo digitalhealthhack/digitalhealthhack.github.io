@@ -9,8 +9,7 @@ categories: hackathon
 
 The second Digital Health Hack was held on the 15-16th November 2014, again hosted by fantastic The Oxford Launchpad and sponsored by the Oxford AHSN, Global Initiative, and Telenor.  Following on from a successful hack weekend in July, the aim was again to bring together people of different skill sets and expertise to work together on new digital health projects, to create new working relationships and interactions between the cross-disciplinary and cross-sector members of the Digital Health Oxford group, and to identify and come up with solutions to important problems in the themes of global health, mobile health, and other digital health solutions / projects.
 
-![My helpful screenshot]({{ site.url }}/img/DHOxHack201411-Sponsors.png)
-![My helpful screenshot](http://localhost:4000/img/DHOxHack201411-Sponsors.png)
+![Autumn 2014 Hack Weekend Sponsors and Speakers]({{ site.url }}/img/DHOxHack201411-Sponsors.png)
 
 A fantastic weekend was had by all, over 60 people attended over the weekend, and in addition to the five main teams, there was again a very encouraging and enthusiastic set of mentors who were available for questions, to provide advice, and help guide the teams:
 
