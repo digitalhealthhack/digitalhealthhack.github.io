@@ -46,6 +46,7 @@ A number of relevant data sources are listed below:
 - [Met Office Datapoints](http://www.metoffice.gov.uk/datapoint)
 - [European Environmental Data](http://www.eea.europa.eu/data-and-maps/data#c11=&c17=&c5=all&c0=5&b_start=0)
 - [Global Boundary Data](http://www.naturalearthdata.com/downloads/)
+- [Health APIs from ProgrammableWeb](http://www.programmableweb.com/news/37-health-apis-google-health-avvo-and-fitbit/2012/03/21)
 
 <br>
 
