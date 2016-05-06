@@ -15,10 +15,11 @@ markdown: kramdown
 # Pages
 pages:
   About: '/about'
+  Trello: '/using_trello'
   Contact: '/contact'
   Blog: '/blog'
 
-paginate: 10
+paginate: 5
 
 permalink: pretty
-highlighter: pygments
+highlighter: rouge

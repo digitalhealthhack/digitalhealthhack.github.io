@@ -6,13 +6,57 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 03:31:24 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 03:31:24 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 04:30:02 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 04:30:02 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Open Data, Open Source and Open Standards</title>
-        <description>&lt;p&gt;The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of &lt;strong&gt;Open Data&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;The Digital Health Hack Weekend on 7th and 8th May 2016 will have a focus of &lt;strong&gt;Open Data, Open Source and Open Standards&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;h1 id=&quot;open-data&quot;&gt;Open Data&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cde.org.uk/howto/&quot;&gt;How To&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finding data at HSCIC
+http://www.cde.org.uk/howto/hscic-data/&lt;/p&gt;
+
+&lt;p&gt;Open Health Data Platform Resources
+http://www.cde.org.uk/resources/resources.html&lt;/p&gt;
+
+&lt;p&gt;Linking data across organisations
+http://www.cde.org.uk/howto/cross-org-joins/&lt;/p&gt;
+
+&lt;p&gt;Forecasting using data
+http://www.cde.org.uk/howto/forecasting/&lt;/p&gt;
+
+&lt;p&gt;Building an API in Ruby
+http://www.cde.org.uk/howto/api/&lt;/p&gt;
+
+&lt;h3 id=&quot;open-source&quot;&gt;Open Source&lt;/h3&gt;
+
+&lt;p&gt;cityEHR
+https://sourceforge.net/projects/cityehr/&lt;/p&gt;
+
+&lt;p&gt;cityEHR – Electronic Health Records Using Open Health Informatics 
+http://www.hl7.org.uk/doc_store/io_forums/112013/basic_cityehr.pdf
+http://openhealthinformatics.org/wp-content/uploads/2014/11/2014-11-26-Basic-cityEHR.pdf&lt;/p&gt;
+
+&lt;p&gt;NHS Open Source Day
+http://openhealthinformatics.org/2014/11/nhs-open-source-day/&lt;/p&gt;
+
+&lt;h3 id=&quot;open-standards&quot;&gt;Open Standards&lt;/h3&gt;
+
+&lt;p&gt;Standards allow for interoperability and data transfer, 
+http://openhealthinformatics.org/standards/&lt;/p&gt;
+
+&lt;p&gt;HL7 &amp;amp; FHIR
+http://www.hl7.org/implement/standards/product_brief.cfm?product_id=343&lt;/p&gt;
+
+&lt;p&gt;EMIS Health implements open standards for interoperability
+https://www.emishealth.com/news-events/news/emis-health-implements-open-standards-for-interoperability/&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 May 2016 13:00:00 +0100</pubDate>
         <link>http://dhox.org/hackathon/2016/05/05/DHOxHack%234-Spring-2016/</link>
