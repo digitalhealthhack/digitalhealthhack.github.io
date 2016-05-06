@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital Health Hack #2 - Nov' 2014"
+title:  "Digital Health Hack #2 - Autumn 2014"
 date:   2014-11-13 13:00:00
 categories: hackathon
 ---

@@ -6,8 +6,8 @@
 </description>
     <link>http://dhox.org/</link>
     <atom:link href="http://dhox.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 May 2016 01:32:48 +0100</pubDate>
-    <lastBuildDate>Fri, 06 May 2016 01:32:48 +0100</lastBuildDate>
+    <pubDate>Fri, 06 May 2016 02:21:31 +0100</pubDate>
+    <lastBuildDate>Fri, 06 May 2016 02:21:31 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -29,7 +29,7 @@ asdf&lt;/p&gt;
       </item>
     
       <item>
-        <title>Digital Health Hack #3 - March 2015</title>
+        <title>Digital Health Hack #3 - Spring 2015</title>
         <description>&lt;p&gt;HELP at the Health Hack Weekend&lt;/p&gt;
 
 &lt;p&gt;The HELP (Health Emergency Learning Platform) team used the Digital Health Hack weekend to start work on a new mobile game that aims to use mobile phones to train healthcare workers in low-income countries to manage paediatric emergencies.&lt;/p&gt;
@@ -51,7 +51,7 @@ asdf&lt;/p&gt;
       </item>
     
       <item>
-        <title>Digital Health Hack #2 - Nov&#39; 2014</title>
+        <title>Digital Health Hack #2 - Autumn 2014</title>
         <description>&lt;h4 id=&quot;weekend--60-hackers--2-talks--9-mentors--8-projects--500-caffeinated-beverages--3-sponsors&quot;&gt;1 weekend :: 60 hackers :: 2 talks :: 9 mentors :: 8 projects :: 500 caffeinated beverages :: 3 sponsors&lt;/h4&gt;
 
 &lt;p&gt;The second Digital Health Hack was held on the 15-16th November 2014, again hosted by fantastic The Oxford Launchpad and sponsored by the Oxford AHSN, Global Initiative, and Telenor.  Following on from a successful hack weekend in July, the aim was again to bring together people of different skill sets and expertise to work together on new digital health projects, to create new working relationships and interactions between the cross-disciplinary and cross-sector members of the Digital Health Oxford group, and to identify and come up with solutions to important problems in the themes of global health, mobile health, and other digital health solutions / projects.&lt;/p&gt;
@@ -117,7 +117,7 @@ The device is built using open hardware, connects to your phone via Bluetooth, a
       </item>
     
       <item>
-        <title>Digital Health Hack #1</title>
+        <title>Digital Health Hack #1 - Summer 2014</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
