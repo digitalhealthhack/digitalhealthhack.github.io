@@ -17,7 +17,9 @@ pages:
   Contact: '/contact'
   Blog: '/blog'
 
+gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"
 
 permalink: pretty
 highlighter: pygments
